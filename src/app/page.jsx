@@ -76,7 +76,6 @@ export default async function Home() {
 
       <Projects projects={projects} />
 
-      <Footer />
     </>
   )
 }

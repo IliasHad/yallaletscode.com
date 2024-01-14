@@ -5,7 +5,7 @@ import '@/styles/tailwind.css'
 export const metadata = {
   title: {
     template: '%s - Yalla Create',
-    default: 'Yalla Create - Award winning developer studio based in Denmark',
+    default: 'Yalla Create - Web Development Studio',
   },
 }
 
